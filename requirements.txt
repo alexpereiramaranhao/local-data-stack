@@ -2,4 +2,6 @@
 apache-airflow-providers-common-sql==1.11.0  # pin provider versions!
 apache-airflow-providers-snowflake
 dbt-snowflake==1.7.0
+apache-airflow-providers-airbyte
 astronomer-cosmos
+requests
