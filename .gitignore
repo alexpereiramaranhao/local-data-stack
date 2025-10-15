@@ -394,4 +394,6 @@ pip-selfcheck.json
 .history
 .ionide
 
+.idea/inspectionProfiles/Project_Default.xml
+
 metabase-data/*
