@@ -1,5 +1,5 @@
 services:
-  metabase:
+ metabase:
     image: metabase/metabase:latest
     ports:
       - "127.0.0.1:3000:3000"  # Força localhost IPv4
